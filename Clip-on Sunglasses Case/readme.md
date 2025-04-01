@@ -1,4 +1,3 @@
-```markdown
 # Clip-on Sunglasses Case
 
 ![Showcase](Resources/image.png)
